@@ -1,0 +1,83 @@
+roc auc:
+(Verse 1)
+Built a classifier, a model so keen,
+Can it tell tumors from healthy, a medical scene?
+But how do we find the balance, the threshold so fine?
+Too high, good cases missed, too low, false positives whine.
+Enter ROC and AUC, a powerful crew,
+Guiding the threshold choice, a story brand new.
+
+(Chorus)
+ROC, the Receiver Operating Characteristic curve,
+True positive rate versus false positive, a story to observe.
+AUC, the Area Under the Curve, a score to behold,
+Measures discrimination, balancing what's told.
+
+(Verse 2)
+Imagine a threshold, a line in the sand,
+Anything above it, classified as the target land.
+True positives, the cancers we catch, a victory song,
+But false positives lurk, where they don't belong.
+
+(Pre-Chorus)
+Think healthy tissue flagged, unnecessary fright,
+A model's mistake, needing to set things right.
+The ROC captures this tension, the delicate dance,
+Between catching the good ones, and giving a chance
+To the imposters who sneak in, disguised in the fold,
+The higher the curve, the better the story unfolds.
+
+(Chorus)
+ROC paints a picture, a visual guide,
+True positive rate soaring, as false positives slide.
+The closer the curve hugs the top, a flawless machine,
+Every true positive caught, a classification dream.
+!!!!!!!!!!!!!!!!!!!!!!!!
+
+(Verse 3)
+But real models are fallible, the curve dips and bends,
+The AUC, the Area Under the Curve, where the story transcends.
+A perfect model, a flawless machine,
+Would have an AUC of one, a classification dream.
+
+(Pre-Chorus)
+Imagine the ROC soaring, hugging the top line,
+Every true positive caught, no false positives to whine.
+But the AUC captures the gap, where the story's not done,
+The higher the score, the better the battle is won.
+
+(Chorus)
+A higher AUC signifies, a model more bright,
+Discriminatory power, shining ever so light.
+It separates the classes, with greater finesse,
+Less confusion and noise, a world we can bless.
+
+(Bridge)
+But thresholds play a role, a strategic call,
+Shifting the line can change, how the metrics enthrall.
+A low threshold catches more, but false positives rise,
+A high threshold filters them, but some good ones miss the skies.
+
+(Verse 4)
+The ROC curve empowers, to choose the right fight,
+Balancing sensitivity, with specificity's might.
+Sensitivity, or recall, how well it finds all,
+The good guys it catches, never letting them fall.
+
+(Pre-Chorus)
+Specificity whispers, the negatives true,
+The ones it rejects, that shouldn't come through.
+The ROC helps us navigate, this delicate quest,
+Finding the sweet spot, where performance is best.
+
+(Chorus)
+So next time you build a model, to classify and sort,
+Remember ROC and AUC, a valuable court.
+They paint a clear picture, of strengths and of flaws,
+Guiding you towards a model, that deserves applause.
+
+(Outro)
+From curves to single scores, a story untold,
+ROC and AUC, their magic unfolds.
+Unlocking performance, with a data-driven view,
+Building better models, with knowledge shining true.

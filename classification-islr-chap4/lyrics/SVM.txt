@@ -1,0 +1,57 @@
+SVM:
+
+(Verse 1)
+In the world of data, where patterns hide,
+Comes a model strong, with clarity as its guide.
+Support Vector Machine, it's its name,
+To untangle the chaos, it aims its aim.
+
+Linear separability, its starting line,
+Where classes divide, in a straight, clear sign.
+In high-dimensional space, it takes its stride,
+Where features abound, and dimensions wide.
+
+(Chorus)
+Support Vector Machine, oh its grace,
+In the realm of learning, it finds its place.
+With kernels and margins, it finds its way,
+Bringing clarity to the data's sway.
+
+(Verse 2)
+In sparsity, it thrives, where features sparse,
+In text and images, it takes charge.
+Non-linear terrains, it doesn't fear,
+With kernel magic, it brings answers near.
+
+But with great data size, it has its bound,
+For large datasets, it's not as sound.
+In its realm, it reigns supreme,
+Support Vector Machine, in learning's scheme.
+
+(Bridge)
+To novices in data's labyrinth deep,
+SVM beckons, with promises to keep.
+Linear or non-linear, it knows its role,
+In the symphony of data, it finds its soul.
+
+Decision trees and logistic regression,
+They too have merit, in the learning session.
+But SVM, with its unique art,
+Brings clarity, where data's paths depart.
+
+(Chorus)
+Support Vector Machine, oh its grace,
+In the realm of learning, it finds its place.
+With kernels and margins, it finds its way,
+Bringing clarity to the data's sway.
+
+(Outro)
+So to all who journey in data's song,
+SVM awaits, to help them along.
+In the dance of patterns, it finds its beat,
+Support Vector Machine, making data neat.
+
+
+
+
+

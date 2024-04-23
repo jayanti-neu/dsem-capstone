@@ -1,0 +1,80 @@
+metrics:
+(Verse 1)
+We built a model, a champion so keen,
+Can it sort the emails, the spam from pristine?
+But how do we judge it? Is accuracy king?
+There's more to the story, a deeper thing.
+
+(Chorus)
+Model assessment, the test it must face,
+On unseen data, revealing its grace.
+The confusion matrix, a table so grand,
+Shows where the model lands, with each classified strand.
+
+(Verse 2)
+True positives shine, the good ones it finds,
+Spam caught in the filter, leaving peace of mind.
+True negatives slumber, the normal mail's rest,
+Correctly ignored, putting worries to the test.
+
+(Pre-Chorus)
+But errors can creep in, a story untold,
+False positives awaken, good mail turned to bold.
+False negatives lurk, the sneaky, the sly,
+Spam messages slipping through, a reason to cry.
+
+(Chorus)
+From this matrix magic, metrics arise,
+Accuracy's compass, a truth in disguise.
+How many right overall, a basic decree,
+But a deeper analysis, sets our model free.
+
+(Verse 3)
+Precision, a measure, of positives true,
+Out of all it flagged, how many ring true?
+Recall, the flip side, how well it can find,
+All the spam in the inbox, leaving none behind.
+
+(Pre-Chorus)
+Specificity whispers, the negatives right,
+The normal emails, classified with such might.
+F1 score, a balance, a number so wise,
+Combining precision, with recall in its eyes.
+
+(Chorus)
+But the story unfolds, with a graphical guide,
+The ROC curve emerges, where truth can't hide.
+True positive rate climbs, as false positives fall,
+The trade-off depicted, a story for all.
+
+(Verse 4)
+High AUC signifies, a model that gleams,
+Separating classes, fulfilling its dreams.
+The area under the curve, a powerful score,
+Tells us how well it discriminates, wanting ever more.
+
+(Bridge)
+Thresholds play a role, a line in the sand,
+Shifting it changes, the metrics at hand.
+A lower threshold, catches more spam,
+But risks good mail getting lost, a model's big dam.
+
+(Verse 5)
+The ROC empowers, the sweet spot to find,
+Balancing sensitivity, with a specific mind.
+Is catching all spam more important you see?
+Or protecting good mail, a crucial decree?
+
+(Chorus)
+Model assessment, a crucial design,
+Ensuring our models, truly can shine.
+Confusion matrix, the metrics we hold,
+The ROC curve's guidance, a story unfolds.
+
+(Outro)
+So next time you build a model, and let it take flight,
+Remember evaluation, to make your work right.
+Metrics the compass, the ROC a guiding star,
+Leading your model onward, reaching ever so far.
+Assessment's the key, to unlocking success,
+Building better models, putting knowledge to the test.

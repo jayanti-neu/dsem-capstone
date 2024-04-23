@@ -1,0 +1,62 @@
+multiclassification:
+(Verse 1)
+Logistic regression, a champion we know,
+Two classes it battles, letting the winner show.
+But the world's a spectrum, with choices untold,
+Multinomial steps in, a story to unfold.
+
+(Chorus)
+More than two responses, a challenge to meet,
+Multinomial logistic, on a probabilistic feat.
+K classes it tackles, a kingdom so grand,
+Predicting the one, where the data will land.
+
+(Verse 2)
+One approach it uses, a divide and conquer fight,
+K minus one models, burning ever so bright.
+Each class takes a turn, compared to a base,
+The odds ratio whispers, revealing its place.
+
+(Pre-Chorus)
+Positive values beckon, a feature's embrace,
+Increasing the chance, in that class to find space.
+Think flowers in a field, red, yellow, or blue,
+A feature like sunshine, might favor the hue
+That thrives in its warmth, a story untold,
+The log odds ratio, a connection to hold.
+
+(Chorus)
+But there's another way, a more elegant form,
+Softmax function steps in, weathering the storm.
+One model it crafts, for all classes to share,
+Probabilities summing, a mathematical snare.
+
+(Verse 3)
+Imagine a pie chart, with slices so fine,
+Each class gets a portion, a story that entwines.
+The softmax equation, the baker's delight,
+Ensures all the slices, add up just right.
+
+(Pre-Chorus)
+Coefficients still whisper, of log odds once more,
+But now they compare, across the class floor.
+Red versus yellow, yellow versus blue,
+The odds of one winning, compared to the two.
+
+(Chorus)
+Predictions arise, with a probabilistic might,
+Choosing the class, with the highest sunlight.
+The one with the greatest chance, based on features we see,
+Multinomial logistic, guiding you and me.
+
+(Bridge)
+From separate models, to softmax's design,
+A powerful tool emerges, a statistical sign.
+Multinomial's magic, a story to tell,
+Unlocking the secrets, where classification dwells.
+
+(Outro)
+Logistic regression's friend, a champion bold,
+For choices abundant, a story unfolds.
+So next time you face data, with multiclass woes,
+Remember multinomial, the path it bestows. 

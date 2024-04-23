@@ -1,0 +1,62 @@
+naive bayes:
+(Verse 1)
+We've built a classifier, a model so keen,
+To predict what lurks, in unseen scenes.
+But how does it work? What magic's inside?
+Naive Bayes steps forth, with a probabilistic stride.
+
+(Chorus)
+Its main goal in classification, a purpose refined,
+Is to assign new instances, to the most likely kind.
+Using Bayes' theorem, a truth long revered,
+It calculates probabilities, a story unsheathed.
+
+(Verse 2)
+Imagine an email, spam or not the quest,
+Words like "free" and "urgent," a flag for the test.
+Naive Bayes classifies, based on these features' might,
+Determining the class, with a probabilistic light.
+
+(Pre-Chorus)
+It calculates the chance, of the email being spam,
+By looking at each word, and the story it can ram.
+Is "free" a spammy word? Does "urgent" raise a brow?
+These features, independent, a tale to somehow...
+
+(Chorus)
+...decipher the truth, with a probabilistic art,
+Assuming independence, a key playing its part.
+Each word's influence, on the class it might hold,
+Treated in isolation, a story untold.
+
+(Verse 3)
+This assumption, though simple and strong,
+Can sometimes go wrong, where features belong
+Together, influencing fate, a story entwined,
+Not truly independent, a weakness we find.
+
+(Pre-Chorus)
+But despite this caveat, Naive Bayes shines bright,
+Especially with vast data, a computational delight.
+Fast and efficient, for features galore,
+High-dimensional spaces, it tackles and explores.
+
+(Chorus)
+Gaussian for continuous, a smooth, flowing tide,
+Like email length measured, where numbers reside.
+Multinomial steps in, for features discrete,
+Counting word occurrences, a pattern so sweet.
+Bernoulli for binary, a presence or lack,
+"Urgent" in the subject, a single-minded track.
+
+(Verse 4)
+Naive Bayes, a warrior, with strengths to behold,
+Easy to implement, a story unfolds.
+But remember the weakness, the features' embrace,
+Their true independence, a concept to chase.
+
+(Outro)
+So next time you face a task, of classification's kind,
+Consider Naive Bayes, a method you'll find,
+Simple and powerful, with a trade-off to make,
+But for vast data's challenges, a solution to take.  

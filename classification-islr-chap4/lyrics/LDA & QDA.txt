@@ -1,0 +1,48 @@
+LDA :
+(Verse 1)
+Listen up, gotta learn about some models so keen,
+Generative models, the name of the scene.
+Unlike their cousins, the discriminative kind,
+These don't just draw lines, they dive deeper, you'll find.
+
+(Chorus)
+They learn the whole story, the distributions within,
+Probabilities for each class, where the data fits in.
+LDA's the first up, a classic so bright,
+Multivariate Gaussian, a bell curve takes flight.
+
+(Verse 2)
+It pictures each class as a cloud, nice and round,
+Assumes the spread's equal, no funky shapes found.
+Then it hunts for boundaries, a line nice and clear,
+Separating classes, minimizing their fear.
+Maximize the distance, that's the key we hold,
+Classes far apart, a story untold.
+
+(Chorus)
+But the world's more complex, distributions can bend,
+QDA steps in next, a more flexible friend.
+It loosens the grip, lets each class have its say,
+Unique covariances, paving a brand new way.
+Circles or ellipses, the data can roam,
+QDA captures the shapes, making predictions at home.
+
+(Bridge)
+Now both LDA and QDA, they're clever and wise,
+Using Bayes' theorem, a truth that never lies.
+It takes prior knowledge, what we know from the start,
+Combines it with data, a masterpiece of art.
+Calculates the odds, the posterior's the name,
+The chance you belong, a probability game.
+
+(Chorus)
+So instead of a label, a hard line to draw,
+They give you a spectrum, respecting the law
+Of uncertainty's reign, the world's not in black and white,
+Probabilities whisper, guiding you through the night.
+
+(Outro)
+Generative models, with Bayes by their side,
+Unlocking the secrets, where data can hide.
+From Gaussians to freedom, the shapes come alive,
+These models keep learning, so let knowledge thrive!

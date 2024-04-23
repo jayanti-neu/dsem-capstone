@@ -1,0 +1,59 @@
+binary classification:
+
+
+(Verse 1)
+In the world of prediction, where data reigns supreme,
+Binary classification, it's quite the dream.
+Logistic Regression steps into the light,
+With linear combos, it takes its flight.
+
+Coefficients, they weigh each feature's might,
+Mapping inputs to outcomes, day and night.
+But how do we find these weights just right?
+Maximum Likelihood, it's our guiding light.
+
+(Chorus)
+Logistic Regression, oh so clear,
+Predicting outcomes, year after year.
+With math and stats, it tells its tale,
+In the land of prediction, it sets its sail.
+
+(Verse 2)
+Likelihood functions, they paint the scene,
+Estimating parameters, like in a dream.
+But what about the errors, how do we clean?
+Cost functions guide us, like a stream.
+
+Gradient descent, it's the hero's call,
+Optimizing weights, both big and small.
+With every iteration, we stand tall,
+Converging to solutions, we give our all.
+
+(Chorus)
+Logistic Regression, oh so clear,
+Predicting outcomes, year after year.
+With math and stats, it tells its tale,
+In the land of prediction, it sets its sail.
+
+(Bridge)
+But beyond this tale, there's more to find,
+Other models dance, in the data's mind.
+Support Vector Machines, they draw the line,
+Separating classes, it's quite divine.
+
+Decision Trees, they branch and grow,
+Dividing data, row by row.
+Random Forests, they stand strong,
+Ensembles of trees, where they belong.
+
+(Chorus)
+Logistic Regression, oh so clear,
+Predicting outcomes, year after year.
+With math and stats, it tells its tale,
+In the land of prediction, it sets its sail.
+
+(Outro)
+So in the realm of binary classification,
+Models abound, with their own equation.
+Each tells a story, in its own right,
+In the symphony of data, shining bright.
